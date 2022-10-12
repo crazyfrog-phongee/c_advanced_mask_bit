@@ -1,6 +1,6 @@
-#ifndef MAIN_H__
-#define MAIN_H__
-
+#ifndef MASK_BIT_H__
+#define MASK_BIT_H__
+#include <stdio.h>
 #include <time.h>
 
 typedef unsigned char uint8_t;
